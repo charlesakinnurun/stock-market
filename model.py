@@ -45,6 +45,9 @@ df = stock_data
 df
 
 # %%
+df.to_csv("stock_data.csv",index=False)
+
+# %%
 # Check for missing values
 df_missing = df.isnull().sum()
 print("----- Missing Values -----")
