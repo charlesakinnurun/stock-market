@@ -76,6 +76,7 @@ stock-market/
 ├── image.jpg              
 ├── CONTRIBUTING.md    
 ├── CODE_OF_CONDUCT.md 
+├── SECURITY.md
 ├── LICENSE
 └── README.md          
 
